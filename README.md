@@ -1,5 +1,6 @@
 # Git commands
-1. **Git clone** 
+
+1. **git clone** 
 
 Create a working copy of a remote repository 
 
