@@ -35,3 +35,7 @@ Record changes that are still local at this point
 9. **git push** 
 
 Push all branches to your remote repository 
+
+10. **git pull**
+
+Downloads content from a remote repository and update the local repository to match content. 
