@@ -1,10 +1,10 @@
 # Git commands
 
-**Initial Setup**
+0. **Initial Setup**
 
-0. **git config --global user.name "John Doe"**
+- **git config --global user.name "John Doe"**
 
-0. **git config --global user.email johndoe@example.com**
+- **git config --global user.email johndoe@example.com**
 
 1. **git clone** 
 
