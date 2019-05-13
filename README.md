@@ -4,7 +4,7 @@
 
 - **git config --global user.name "John Doe"**
 
-- **git config --global user.email johndoe@example.com**
+- **git config --global user.email "johndoe@example.com"**
 
 1. **git clone** 
 
@@ -45,3 +45,9 @@ Push all branches to your remote repository
 10. **git pull**
 
 Downloads content from a remote repository and update the local repository to match content. 
+
+
+[Generating a new SSH key](https://help.github.com/en/enterprise/2.16/user/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+[Adding a new SSH key to your Github account](https://help.github.com/en/articles/adding-a-new-ssh-key-to-your-github-account)
+
