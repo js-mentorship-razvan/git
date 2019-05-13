@@ -51,3 +51,6 @@ Downloads content from a remote repository and update the local repository to ma
 
 [Adding a new SSH key to your Github account](https://help.github.com/en/articles/adding-a-new-ssh-key-to-your-github-account)
 
+[Configuring a remote for a fork](https://help.github.com/en/articles/configuring-a-remote-for-a-fork)
+
+[Syncing a fork](https://help.github.com/en/articles/syncing-a-fork)
