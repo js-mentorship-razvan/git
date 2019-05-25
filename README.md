@@ -46,6 +46,16 @@ Push all branches to your remote repository
 
 Downloads content from a remote repository and update the local repository to match content. 
 
+11. **git branch**
+
+Verify which branch you are curently in
+
+12. **git checkout** 
+
+Switch branches or restore working tree files
+
+
+
 
 [Generating a new SSH key](https://help.github.com/en/enterprise/2.16/user/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
